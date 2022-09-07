@@ -23,6 +23,7 @@ accent colors: E1FFEE, FFEEAF
     background-color:#A5F1E9 ;
     margin: 20px auto;
     filter: blur(1px);
+    box-shadow: 3px 3px #A5F1E9;
 }
 .two{
     width: 475px;
@@ -30,6 +31,7 @@ accent colors: E1FFEE, FFEEAF
     background-color:#E1FFEE ;
     margin: 0 auto 20px;
     filter: blur(1px);
+    box-shadow: 3px 3px #E1FFEE;
 
 }
 .three{
@@ -38,5 +40,7 @@ accent colors: E1FFEE, FFEEAF
     background-color:#FFEEAF ;
     margin: auto;
     filter: blur(2px);
+    box-shadow: 5px 5px #FFEEAF;
+    
     
 }
