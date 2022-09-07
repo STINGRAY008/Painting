@@ -7,7 +7,8 @@ accent colors: E1FFEE, FFEEAF
     width: 500px;
     height: 600px;
     background-color: #7FBCD2;
-    padding: 1px;
+    /* padding: 1px; */
+    overflow: hidden;
 }
 .frame{
     border: 50px solid black;
