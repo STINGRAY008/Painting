@@ -9,6 +9,7 @@ accent colors: E1FFEE, FFEEAF
     background-color: #7FBCD2;
     /* padding: 1px; */
     overflow: hidden;
+    filter: blur(2px);
 }
 .frame{
     border: 50px solid black;
