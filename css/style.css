@@ -6,5 +6,11 @@ accent colors: E1FFEE, FFEEAF
 .canvas{
     width: 500px;
     height: 600px;
-    background-color: 7FBCD2;
+    background-color: #7FBCD2;
+}
+.frame{
+    border: 50px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 20px auto;
 }
