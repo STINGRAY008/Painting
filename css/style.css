@@ -1,4 +1,10 @@
+/* 
+primary color: 7FBCD2
+secondary color: A5F1E9
+accent colors: E1FFEE, FFEEAF
+*/
 .canvas{
     width: 500px;
     height: 600px;
+    background-color: 7FBCD2;
 }
